@@ -1,0 +1,16 @@
+#+OPTIONS: toc:nil num:nil
+
+[[file:index.html][About me]] | [[file:resume/rossMikulskisResume.pdf][CV]] | [[file:work-experience.html][Work experience]] | [[file:projects.html][Projects]] | [[file:contact.html][Contact]]
+#+BEGIN_EXPORT html
+<style>
+  body {
+      background-color: lightblue;
+  }
+</style>
+#+END_EXPORT
+
+
+* Contact
+  - phone : 845-245-5438
+  - [[mailto:luke628@bu.edu][luke628@bu.edu]]
+  

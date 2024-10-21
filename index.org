@@ -7,7 +7,5 @@
 #+ATTR_HTML: :width 300
 [[./LukeParisPhotoStraight.jpg]]
 
-#+ATTR_HTML: :width 200
-[[https://bitsofcs.com/][Bits of CS (my computer science textbook)]]
 
 Hello! My name is Luke
