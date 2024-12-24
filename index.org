@@ -1,11 +1,6 @@
+
 #+OPTIONS: toc:nil num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="assets/css/styles.css" />
+#+HTML_HEAD: <script src="assets/js/animation.js"></script>
 
-[[file:index.html][About me]] | [[file:resume/rossMikulskisResume.pdf][CV]] | [[file:work-experience.html][Work experience]] | [[file:projects.html][Projects]] | [[file:research/index.html][Research ideas]] | [[file:contact.html][Contact]]
-* Luke D. Parrella
-
-
-#+ATTR_HTML: :width 300
-[[./LukeParisPhotoStraight.jpg]]
-
-
-Hello! My name is Luke
+#+HTML: <div class="animation-container" id="textContainer"></div>
