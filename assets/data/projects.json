@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "id": "boat-autonomous-transport",
+      "title": "BO-AT autonomous transport",
+      "description": "For my senior design project at BU, I am working with my team to create an autonomous sailboat to conquer long range ocean research missions.",
+      "image": {
+        "src": "images/projects/boat-autonomous-transport/main.jpeg",
+        "alt": "Autonomous sailboat design and CAD model"
+      },
+      "metadata": {
+        "date": "2024-11-10",
+        "category": "robotics",
+        "featured": true,
+        "status": "in-progress"
+      }
+    },
+    {
+      "id": "lightsaber-stand",
+      "title": "Lightsaber Stand",
+      "description": "This is a lightsaber stand I designed and 3D printed to hold a lightsaber for my friend Jono. I designed the CAD using onshape and printed it on the bambu labs printers in the EPIC lab at school.",
+      "image": {
+        "src": "images/projects/lightsaber-stand/main.png",
+        "alt": "3D printed lightsaber stand CAD model"
+      },
+      "metadata": {
+        "date": "2024-11-08",
+        "category": "3d-printing",
+        "featured": false,
+        "status": "completed"
+      }
+    }
+  ]
+}
