@@ -3,7 +3,7 @@
     {
       "id": "boat-autonomous-transport",
       "title": "BO-AT autonomous transport",
-      "description": "For my senior design project at BU, I am working with my team to create an autonomous sailboat to conquer long range ocean research missions.",
+      "description": "For my senior design project at BU, Our team has created an autonomous sailboat to conquer long range ocean research missions.",
       "image": {
         "src": "images/projects/boat-autonomous-transport/main.jpeg",
         "alt": "Autonomous sailboat design and CAD model"
@@ -28,6 +28,21 @@
         "category": "3d-printing",
         "featured": false,
         "status": "completed"
+      }
+    },
+    {
+      "id": "minecraft-server-monitor",
+      "title": "Minecraft Server Monitor",
+      "description": "Want to check if your friends are online without booting up the game and facing disappointment? My Minecraft Server Monitor allows you to continuously check the status of any Minecraft server and display live player info",
+      "image": {
+        "src": "images/projects/minecraft-server-monitor/main.png",
+        "alt": "Example of querying a server"
+      },
+      "metadata": {
+        "date": "2026-04-23",
+        "category": "software",
+        "featured": false,
+        "status": "in-progress"
       }
     }
   ]
