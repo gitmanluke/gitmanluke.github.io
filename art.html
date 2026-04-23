@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Luke Parrella — Art</title>
+  <link rel="icon" type="image/gif" href="LPgif.gif">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+
+<body>
+  <nav class="main-nav">
+    <div class="nav-container">
+      <ul class="nav-menu">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="projects.html">Engineering Projects</a></li>
+        <li><a href="art.html" class="active">Art</a></li>
+        <li><a href="resume/resume_april14_2026.pdf">Resume</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main class="art-content">
+    <section class="art-header">
+      <h1>Art</h1>
+    </section>
+    <div id="art-grid"></div>
+  </main>
+
+  <!-- Lightbox overlay — hidden until a piece is clicked -->
+  <div id="art-lightbox" class="lightbox hidden">
+    <button class="lightbox-close" aria-label="Close">×</button>
+    <div class="lightbox-content">
+      <img id="lightbox-img" src="" alt="">
+      <div class="lightbox-caption">
+        <h3 id="lightbox-title"></h3>
+        <p id="lightbox-description"></p>
+        <span id="lightbox-medium"></span>
+      </div>
+    </div>
+  </div>
+
+  <script src="assets/js/artRenderer.js"></script>
+</body>
+</html>

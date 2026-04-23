@@ -44,7 +44,7 @@ function createProfileImageAndGifs() {
     
     // Create profile image
     const image = document.createElement('img');
-    image.src = 'LukeParisPhotoStraight.jpg';
+    image.src = 'images/profile/LukeParisPhotoStraight.jpg';
     image.className = 'profile-image';
     image.alt = 'Profile photo';
     container.appendChild(image);
